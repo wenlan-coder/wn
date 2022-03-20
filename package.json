@@ -1,0 +1,17 @@
+{
+    "name": "wrun",
+    "version": "1.0.0",
+    "description": "Automatic execution generator",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "wenlan",
+    "license": "MIT",
+    "repository":{
+      "type": "url",
+      
+    }
+
+}
