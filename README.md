@@ -1,0 +1,2 @@
+# wn
+exec generator demo
