@@ -9,7 +9,7 @@
 //自动执行生成器函数
 //recursion
 module.exports = {
-     execGenerator(genFn) {
+    execGenerator(genFn) {
         const generator = genFn();
         function exec(res) {
             const result = generator.next(res);
