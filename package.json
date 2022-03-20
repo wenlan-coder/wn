@@ -1,17 +1,21 @@
 {
-    "name": "wrun",
-    "version": "1.0.0",
+    "name": "wnrun",
+    "version": "1.0.1",
     "description": "Automatic execution generator",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords": [],
+    "keywords": [
+        "wenlan",
+        "untils",
+        "generator execution "
+    ],
     "author": "wenlan",
     "license": "MIT",
-    "repository":{
-      "type": "url",
-      
-    }
-
+    "repository": {
+        "type": "url",
+        "url": "git@github.com:wenlan-coder/wn.git"
+    },
+    "homepage": "git@github.com:wenlan-coder/wn.git"
 }
